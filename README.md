@@ -1,4 +1,4 @@
-# Mechatronic Systems HW —  LaTeX 
+# Mechatronic Systems Mid Project —  LaTeX 
 
 Nonlinear adaptive control (MRAC) of a third-order mass–spring–damper with a
 nonlinear cubic spring and a first-order actuator. 
