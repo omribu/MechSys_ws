@@ -31,9 +31,6 @@ pip install numpy matplotlib
 python3 mechatronics_hw.py     # writes ./figures/
 ```
 
-
-## Numbers in the text match the figures (simulation)
-
 - θ = [2.5, 3.0, 4.0, 3.0, 2.0], c = 2.0
 - Reference: triple pole p = 2.5 → λ₂=7.5, λ₁=18.75, λ₀=15.625
 - Gains: α₁=6, α₂=5, λ=5 → k₂=10, k₁=31, k₀=30
