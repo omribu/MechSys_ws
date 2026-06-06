@@ -21,7 +21,7 @@ nonlinear cubic spring and a first-order actuator.
 | file/folder          | description                                      |
 |----------------------|--------------------------------------------------|
 | `main.tex`           | The full report (LaTeX), Sections 1–6.           |
-| `main.pdf`           | Pre-compiled PDF (22 pages).                      |
+| `Mechatronics_Systems.pdf`           |Project PDF.                      |
 | `mechatronics_hw.py` | Single Python file that generates every figure.  |
 | `figures/`, `figs/`  | All figures (both paths are on `\graphicspath`). |
 
