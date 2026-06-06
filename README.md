@@ -3,8 +3,6 @@
 Nonlinear adaptive control (MRAC) of a third-order mass–spring–damper with a
 nonlinear cubic spring and a first-order actuator. 
 
-## One convention everywhere
-
 - Parameter vector  θ = [a₁, a₂, a₃, b₁, b₂]
 - Regressor         φ = [ÿ, ẏ, y, y²ẏ, y³]
 - Nonlinear funcs   f₁ = y²ẏ (mixed term),  f₂ = y³ (cubic term)
