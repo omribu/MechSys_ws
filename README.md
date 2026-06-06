@@ -24,7 +24,7 @@ nonlinear cubic spring and a first-order actuator.
 | `figures/`, `figs/`  | All figures (both paths are on `\graphicspath`). |
 
 
-## Regenerate figures
+## Simulation
 
 ```
 pip install numpy matplotlib
